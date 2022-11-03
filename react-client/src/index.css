@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&family=Saira+Semi+Condensed:wght@100;200;300;400&family=Yrsa:wght@300;400&family=Square+Peg&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 
 :root {
     /* Palette Colors */
@@ -19,6 +19,8 @@
 
 body {
     box-sizing: border-box; 
+    margin: 0;
+    padding: 0; 
     font-family: "Prata", sans-serif; 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
